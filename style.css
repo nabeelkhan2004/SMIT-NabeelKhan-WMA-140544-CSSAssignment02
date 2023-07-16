@@ -17,7 +17,7 @@
 
 body {
     background-color: #000;
-    max-width: 1150px;
+    /* max-width: 1150px; */
     margin: 0% auto;
 }
 
@@ -204,10 +204,10 @@ a, a:visited {
 
 .franchise {
     /* height: 535px; */
-    width: 80%;
+    width: 1000px;
     margin: 100px auto;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     column-count: 2;
 }
 
@@ -224,7 +224,7 @@ a, a:visited {
     height: 300px;
 }
 
-.city-name-red-text {
+.city-name-red-text, .village-franchise > div:nth-child(2) p:nth-child(1) {
     color: #fa1724;
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -256,10 +256,10 @@ a, a:visited {
 
 .express-franchises-elements {
     display: flex;
-    justify-content:space-evenly;
-    width: ;
+    justify-content: space-evenly;
+    margin: auto;
     flex-wrap: wrap;
-    max-width: 1500px;
+    max-width: 900px;
 }
 
 .expressFranchise {
@@ -269,7 +269,7 @@ a, a:visited {
 }
 
 .expressFranchise > img {
-    width: 300px;
+    width: 250px;
 }
 
 .expressFranchise > .title {
@@ -291,6 +291,56 @@ a, a:visited {
 }
 
 #village-franchise {
-    display: flex;
-    justify-content: space-between;
+    background-color: #0f0f0f;
+    color: #fff;
 }
+
+.village-franchise {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.village-franchise > div {
+    margin: 0 20px;
+}
+.village-franchise > div:nth-child(2) > button {
+    background-color: #28a745;
+    border: none;
+}
+
+.openSoon {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    height: 600px;
+    /* width: 1200px; */
+}
+
+.openingSoon {
+    font-size: 20px;
+    text-align: center;
+    width: 400px;
+    height: 250px;
+    background-color: #fff;
+    color: #000;
+}
+
+.openingSoon > img {
+    width: 100px;
+}
+
+.openingSoon > p:nth-child(3) {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 50px;
+}
+
+.openingSoon > p:nth-child(2) {
+    font-size: 20px;
+    color: #fa1724;
+}
+
+
