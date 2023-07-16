@@ -10,6 +10,10 @@
     src: url(./Content/Font/Futura\ Black.ttf);
 }
 
+body {
+    background-color: #000;
+}
+
 header {
     background-color: #000;
     height: 90px;
