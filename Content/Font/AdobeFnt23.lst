@@ -1,0 +1,53 @@
+%!Adobe-FontList 1.23
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BDMegalonaDEMOPersonalUseOnly-RegularItalic
+FamilyName:BD Megalona DEMO Personal Use Only
+StyleName:Regular Italic
+FullName:BD Megalona DEMO Personal Use Only Regular Italic
+MenuName:BD Megalona DEMO Personal Use Only It
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Nabeel Khan\Desktop\SMIT Batch-10 MERN WMA-140544\CSS\Assignments\CSS Assignment 02\SMIT-NabeelKhan-WMA-140544-CSSAssignment02\Content\Font\BDMegalona.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:35304
+FileModTime:1619972555
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,BD Megalona DEMO Personal Use Only Regular It
+NameArray:0,Mac,4,BD Megalona DEMO Personal Use Only Regular Italic
+NameArray:0,Win,1,BD Megalona DEMO Personal Use Only It
+NameArray:0,Win,16,BD Megalona DEMO Personal Use Only
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FuturaBlack
+FamilyName:Futura
+StyleName:Black
+FullName:Futura Black
+MenuName:Futura
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Nabeel Khan\Desktop\SMIT Batch-10 MERN WMA-140544\CSS\Assignments\CSS Assignment 02\SMIT-NabeelKhan-WMA-140544-CSSAssignment02\Content\Font\Futura Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:24504
+FileModTime:1689320511
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Futura Black
+NameArray:0,Win,1,Futura
+%EndFont
+
